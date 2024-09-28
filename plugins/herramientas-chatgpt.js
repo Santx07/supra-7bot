@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/51993966345                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ 𝐊𝐈𝐋𝐋𝐙𝐍 (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)  */
+/*     ◉ 𝙍𝙚𝙚𝙓 (https://chat.whatsapp.com/D690ZsxMPHA2CbNH3nC42y)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
@@ -67,5 +67,5 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
    }
  }
 };
-handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|𝐊𝐈𝐋𝐋𝐙𝐍|𝐊𝐈𝐋𝐋𝐙𝐍Bot)$/i;
+handler.command = /^(openai|chatgpt|ia|robot|openai2|chatgpt2|ia2|robot2|𝙍𝙚𝙚𝙓|𝙍𝙚𝙚𝙓Bot)$/i;
 export default handler;

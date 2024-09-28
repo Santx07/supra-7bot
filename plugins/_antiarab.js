@@ -1,4 +1,4 @@
-// 𝐊𝐈𝐋𝐋𝐙𝐍@BrunoSobrino - _antiarab.js
+// 𝙍𝙚𝙚𝙓@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;
